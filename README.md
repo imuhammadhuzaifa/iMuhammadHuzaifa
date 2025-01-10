@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuhammadhuzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="imuhammadhuzaifa" /> </p>
 <br/>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,reactNative,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
